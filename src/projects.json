@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "This is a sample project. It's the first one.",
+    "image": "link to image source",
+    "github":"link to repo",
+    "deployed": "link to deployed"
+  },
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "This is a sample project. It's the first one.",
+    "image": "link to image source",
+    "github":"link to repo",
+    "deployed": "link to deployed"
+  },
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "This is a sample project. It's the first one.",
+    "image": "link to image source",
+    "github":"link to repo",
+    "deployed": "link to deployed"
+  }
+]
+
