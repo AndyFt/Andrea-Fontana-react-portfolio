@@ -7,14 +7,13 @@ import './App.css'
 function App() {
 
   return (
-    // Andrea-Fontana-react-portfolio
-    <Router basename='/'> 
+    <Router basename='/Andrea-Fontana-react-portfolio'> 
       <MyNav />
       <Routes>
-      <Route path='/portfolio' element={<ProjectGallery />} />
-      <Route path='/contact' element={<Contact />} />
-      <Route path='/404' element={<Custom404 />} />
-      <Route path='' element={<Home />} />
+        <Route path='/portfolio' element={<ProjectGallery />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/404' element={<Custom404 />} />
+        <Route path='' element={<Home />} />
       </Routes>
     </Router>
   )
