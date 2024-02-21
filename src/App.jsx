@@ -1,4 +1,4 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import MyNav from './components/NavBar';
 import { Contact, Custom404, Home, ProjectGallery } from './components/Pages';
