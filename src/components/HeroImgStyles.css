@@ -27,7 +27,7 @@
 
 .hero {
   height: 100%;
-  width: 100%;
+  width: 100svw;
 }
 
 .hero .content {
@@ -69,4 +69,14 @@
   transition: 0.3s;
   transform: scale(1.05);
   color: white;
+}
+
+@media screen and (max-width:700px) {
+  .hero .content h1{
+    font-size: 3rem;
+  }
+  
+  .hero .content p{
+    font-size: 1.4rem;
+  }
 }
