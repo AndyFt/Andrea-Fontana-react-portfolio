@@ -1,4 +1,37 @@
-:root {
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* body {
+  color: var(--color-bg);
+} */
+
+ul {
+  list-style-type: none;
+}
+
+/* .btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--color-text);
+  border: solid 1px white;
+  border-radius: 5%;
+  font-weight: 600;
+  cursor: pointer;
+} */
+
+/* .btn:hover {
+  transition: 0.3s;
+  transform: scale(1.05);
+  color: white;
+} */
+
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -65,4 +98,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */

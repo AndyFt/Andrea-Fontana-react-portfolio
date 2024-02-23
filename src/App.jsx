@@ -1,22 +1,26 @@
-// import { useState } from 'react'
+import React from "react";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Home, About, ProjectGallery, Contact, Custom404 } from './components/Pages';
 import MyNav from './components/NavBar';
-import { Contact, Custom404, Home, ProjectGallery } from './components/Pages';
-import './App.css'
+import './App.css';
+
 
 function App() {
 
   return (
-    <Router basename='/Andrea-Fontana-react-portfolio'> 
+    <div className={App}>
+    <Router basename={'/Andrea-Fontana-react-portfolio'}> 
       <MyNav />
       <Routes>
-        <Route path='/portfolio' element={<ProjectGallery />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/projects' element={<ProjectGallery />} />
         <Route path='/contact' element={<Contact />} />
-        <Route path='/404' element={<Custom404 />} />
-        <Route path='' element={<Home />} />
+        <Route path='/custom404' element={<Custom404 />} />
       </Routes>
     </Router>
-  )
+    </div>
+  );
 }
 
-export default App
+export default App;

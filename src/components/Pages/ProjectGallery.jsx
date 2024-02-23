@@ -1,4 +1,5 @@
-import Project from '../Project';
+import React from "react";
+import Project from '../ProjectCard';
 import projects from '../../projects.json'
 
 const ProjectGallery = () => {
@@ -7,7 +8,7 @@ const ProjectGallery = () => {
   <>
     <h1>These are my projects!</h1>
 
-    {projects.map(proje => (
+    {projects.map(project => (
       <Project key={project.id} project={project} />
     ))}
   </>
