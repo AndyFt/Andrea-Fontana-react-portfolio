@@ -10,7 +10,6 @@ const Home = () => {
   <div>
     <HeroImg />
   </div>
-  {/* <h1>Hi, I'm Andrea. Welcome to my portfolio!</h1> */}
   </>
   )
 }

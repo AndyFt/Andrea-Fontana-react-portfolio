@@ -13,9 +13,6 @@ ul {
   list-style-type: none;
 }
 
-.navbar-colapse {
-  flex-grow: 0 !important;
-}
 
 /* .btn {
   padding: 12px 32px;
