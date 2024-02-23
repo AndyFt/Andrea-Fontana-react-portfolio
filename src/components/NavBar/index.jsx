@@ -14,7 +14,7 @@ function MyNav() {
           <Nav className="me-auto">
             <Nav.Link href="./">Home</Nav.Link>
             <Nav.Link href="./about">About Me</Nav.Link>
-            <Nav.Link href="./portfolio">Portfolio</Nav.Link>
+            <Nav.Link href="./projects">Portfolio</Nav.Link>
             <Nav.Link href="./contact">Contacts</Nav.Link>
           </Nav>
         </Navbar.Collapse>
