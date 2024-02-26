@@ -9,7 +9,6 @@ const ProjectGallery = () => {
       <div>
         <HeroImg2 heading="Projects." text="Here are some of my latest works!"/>
       </div>
-      <h1>These are my projects!</h1>
 
       {projects.map((project) => (
         <Project key={project.id} project={project} />

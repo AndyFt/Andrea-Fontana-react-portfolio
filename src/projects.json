@@ -1,27 +1,35 @@
 [
   {
     "id": 1,
-    "title": "Project 1",
-    "description": "This is a sample project. It's the first one.",
-    "image": "link to image source",
-    "github":"link to repo",
-    "deployed": "link to deployed"
+    "title": "Work Day Scheduler",
+    "description": "Interactive Schedule SPA built with HTML, CSS, and JS for seamless user experience. Dynamic updates and color coding showcase past, present, and future hours in a clear, accessible interface. Manage your schedule on the go, from any browser.",
+    "image": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/images/work-day-scheduler-screenshot-with-event.png?raw=true",
+    "repoLink":"https://github.com/AndyFt/work-day-scheduler",
+    "deployedLink": "https://andyft.github.io/work-day-scheduler/"
   },
   {
-    "id": 1,
-    "title": "Project 1",
-    "description": "This is a sample project. It's the first one.",
-    "image": "link to image source",
-    "github":"link to repo",
-    "deployed": "link to deployed"
+    "id": 2,
+    "title": "Friends Quiz",
+    "description": "Single-page app (SPA) built with JavaScript, HTML5, and CSS3. Features dynamic question generation, real-time scoring with a 60-second timer, and an optional high score list using local storage. Fully functional and extensible architecture allows for customization and future additions.",
+    "image": "https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/questions-page.png?raw=true",
+    "repoLink":"https://github.com/AndyFt/andrea-fontana-friends-quiz/tree/main",
+    "deployedLink": "https://andyft.github.io/andrea-fontana-friends-quiz/"
   },
   {
-    "id": 1,
-    "title": "Project 1",
-    "description": "This is a sample project. It's the first one.",
-    "image": "link to image source",
-    "github":"link to repo",
-    "deployed": "link to deployed"
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "JavaScript weather dashboard. Displays current conditions & 5-day forecasts. Features location search, saving, and local storage for personalized weather tracking.",
+    "image": "https://github.com/AndyFt/weather-dashboard/blob/main/assets/images/weather-dashboard-screenshot.png?raw=true",
+    "repoLink":"https://github.com/AndyFt/weather-dashboard",
+    "deployedLink": "https://andyft.github.io/weather-dashboard/"
+  },
+  {
+    "id": 4,
+    "title": "Bootstrap Portfolio",
+    "description": "V2 Portfolio (Front-End Dev Student): Significant improvements since v1, showcasing diverse projects in HTML, CSS, and JavaScript.",
+    "image": "https://github.com/AndyFt/bootstrap-portfolio/blob/main/images/andyft-github-io-bootstrap-portfolio.png?raw=true",
+    "repoLink":"https://github.com/AndyFt/bootstrap-portfolio",
+    "deployedLink": "https://andyft.github.io/bootstrap-portfolio/"
   }
 ]
 
