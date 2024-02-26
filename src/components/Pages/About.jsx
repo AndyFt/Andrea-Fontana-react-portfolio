@@ -1,5 +1,6 @@
 import React from "react";
 import HeroImg2 from "../HeroImg2";
+import AboutContent from "../AboutContent"
 
 const About = () => {
   return (
@@ -7,8 +8,7 @@ const About = () => {
       <div>
         <HeroImg2 heading="About." text="Get to know me!"/>
       </div>
-      <div className="about-section"></div>
-      <h1>About</h1>
+      <AboutContent />
     </>
   );
 };

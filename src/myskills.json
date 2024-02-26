@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "name": "HTML5"
+    },
+    {
+      "id": "2",
+      "name": "CSS3"
+    },
+    {
+      "id": "3",
+      "name": "JavaScript"
+    },
+    {
+      "id": "4",
+      "name": "Bootstrap"
+    },
+    {
+      "id": "5",
+      "name": "GitHub"
+    },
+    {
+      "id": "6",
+      "name": "React"
+    },
+    {
+      "id": "7",
+      "name": "Node.js"
+    },
+    {
+      "id": "8",
+      "name": "jQuery"
+    },
+    {
+      "id": "9",
+      "name": "APIs"
+    },
+    {
+      "id": "10",
+      "name": "JSON"
+    },
+    {
+      "id": "11",
+      "name": "Test-Driven Development"
+    },
+    {
+      "id": "12",
+      "name": "Responsive Web Design"
+    },
+    {
+      "id": "13",
+      "name": "OOP"
+    },
+    {
+      "id": "14",
+      "name": "Project Management"
+    },
+    {
+      "id": "15",
+      "name": "Conflict Resolution"
+    },
+    {
+      "id": "16",
+      "name": "Teamwork"
+    },
+    {
+      "id": "17",
+      "name": "Problem Solving"
+    },
+    {
+      "id": "18",
+      "name": "Attention to Details"
+    },
+    {
+      "id": "19",
+      "name": "Remote Work"
+    }
+  ]
+}
