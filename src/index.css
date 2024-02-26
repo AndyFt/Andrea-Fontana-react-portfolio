@@ -8,29 +8,3 @@
 ul {
   list-style-type: none;
 }
-
-.navbar {
-  position: fixed !important;
-  z-index: 9999 !important;
-  background-color: rgba(0, 0, 0, 0.11) !important;
-}
-
-.navbar-brand img{
-  height: 100px;
-  width: auto;
-}
-
-.navbar-brand img:hover{
-  transition: 0.3s;
-  transform: scale(1.2);
-}
-
-.nav-link:hover {
-  transition: 0.3s;
-  transform: scale(1.2);
-  font-weight: 600;
-}
-
-.navbar-collapse {
-  flex-grow: 0 !important;
-}
