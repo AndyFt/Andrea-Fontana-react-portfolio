@@ -9,6 +9,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: justify;
+  padding: 5px;
 }
 
 .skills-container {
@@ -41,12 +43,32 @@
   justify-content: space-around;
   align-items: center;
   gap: 1px;
-  padding: 6px;
+  padding: 5px;
   background-color: rgba(0, 0, 0, 0.089);
 }
 
 .skill-items-card {
   padding: 0 2px;
+}
+
+.button {
+  display: flex;
+  padding: 8px 28px;
+  align-items: center;
+  border: none;
+  text-decoration: none !important;
+  border-radius: 5%;
+  background-color: rgba(136, 136, 136, 0.5);
+  color: black;
+}
+
+.button:hover {
+  border: none;
+  border-radius: 5%;
+  background-color: rgb(0, 0, 0) !important;
+  color: rgb(255, 255, 255);
+  transition: 0.5s;
+  transform: scale(1.05);
 }
 
 @media screen and (max-width: 768px) {

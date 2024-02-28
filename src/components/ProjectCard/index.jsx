@@ -11,7 +11,7 @@ function ProjectCard( { project } ) {
       <Card.Title>{project.title}</Card.Title>
       <Card.Text>{project.description}</Card.Text>
       <div className='button-container'>
-      <a  href={project.repoLink}> <Button variant='top'>&nbsp;View Code</Button></a>
+      <a  href={project.repoLink}> <Button variant='top'>View Code</Button></a>
       <a href={project.deployedLink}><Button variant="top">Deployed site</Button></a>
       </div>
     </Card.Body>

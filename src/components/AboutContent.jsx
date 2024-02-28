@@ -16,8 +16,8 @@ const AboutContent = () => {
           detail-oriented quick learner, actively building my expertise in HTML,
           CSS, JavaScript, and related technologies.
         </p>
-        <Link to="/contact">
-          <button className="btn">Contact Me</button>
+        <Link to="/contact" className="button">
+          Contact Me
         </Link>
       </div>
 
