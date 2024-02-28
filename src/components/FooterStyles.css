@@ -14,9 +14,9 @@
   justify-content: space-evenly;
 }
 
-.footer-container :link{
-  text-decoration: none;
-  color: black;
+.footer-container :hover{
+  transition: 0.5s;
+  transform: scale(1.2);
 }
 
 .bottom {

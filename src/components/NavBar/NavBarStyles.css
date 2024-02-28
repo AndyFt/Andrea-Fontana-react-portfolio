@@ -14,12 +14,12 @@ nav {
 }
 
 .navbar-brand img:hover{
-  transition: 0.3s;
+  transition: 0.5s;
   transform: scale(1.2);
 }
 
 .nav-link:hover {
-  transition: 0.3s;
+  transition: 0.5s;
   transform: scale(1.2);
   font-weight: 600;
 }
