@@ -27,7 +27,7 @@ This is the third version of my portfolio, now created with React, with the proj
 
 ## Usage
 
-Portfolio webpage to learn about me and my work. Contains a small description of myself, last projects, skills, contact information and a form to contact me directly. You can click on the navigation bar to go exactly where you want.
+Portfolio webpage to learn about me and my work. Contains a small description of myself, last projects, skills, social media links and a form to contact me directly. You can click on the navigation bar to go exactly where you want.
 ![navigation bar](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/NavBarSS.png)
 
 You can click on the icons in the footer to go to my GitHub, or LinkedIn page or send me an email.
