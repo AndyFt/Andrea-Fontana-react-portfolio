@@ -10,15 +10,18 @@
 
 ## Description
 
-This is the third version of my portfolio, now created with JavaScript and React, with the projects I've done so far as a Front-End Developer student. It has improved a lot since the first one. I'll keep it up to date with new projects.
+This is the my portfolio v3.0. Now created with JavaScript and React, with the projects I've done so far as a Front-End Developer student. Contains 4 pages - Home, About, Projects and Contact - includes a navigation bar, a hero banner image and a footer with links to my GitHub, LinkedIn and Email. It has improved a lot since the first one. I'll keep it up to date with new projects.
 
-![The webpage of my portfolio has 4 pages - Home, About, Projects and Contact - includes a navigation bar, a hero banner image and a footer with links to my GitHub, LinkedIn and Email](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/HomeSS.png)
+![Home page](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/HomeSS.png)
 
-![The About page has a brief description of who I am and my skills](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/AboutSS.png)
+The About page has a brief description of who I am and my skills.
+![About page](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/AboutSS.png)
 
-![The Projects page has my latest projects with links to the repo and the deployed app](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ProjectsSS.png)
+The Projects page has my latest projects with links to the repo and the deployed app.
+![Projects page](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ProjectsSS.png)
 
-![The Contact page has a form that sends a message directly to my inbox](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ContactSS.png)
+The Contact page has a form that sends a message directly to my inbox
+![Contact page](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ContactSS.png)
 
 ## Deployment
 
@@ -30,7 +33,7 @@ This is the third version of my portfolio, now created with JavaScript and React
 Portfolio webpage to learn about me and my work. Contains a small description of myself, last projects, skills, social media links and a form to contact me directly. You can click on the navigation bar to go exactly where you want.
 ![navigation bar](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/NavBarSS.png)
 
-You can click on the icons in the footer to go to my GitHub, or LinkedIn page or send me an email.
+The icons in the footer go to my GitHub, or LinkedIn page or create an email.
 ![footer](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/FooterSS.png)
 
 ## Credits
