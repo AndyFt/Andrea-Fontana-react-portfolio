@@ -10,15 +10,15 @@
 
 ## Description
 
-This is the third version of my portfolio, now created with React, with the projects I've done so far as a Front-End Developer student. It has improved a lot since the first one. I'll keep it up to date with new projects.
+This is the third version of my portfolio, now created with JavaScript and React, with the projects I've done so far as a Front-End Developer student. It has improved a lot since the first one. I'll keep it up to date with new projects.
 
-![The webpage of my portfolio has 4 pages - Home, About, Projects and Contact - includes a navigation bar, a hero banner image and a footer with links to my GitHub, LinkedIn and Email](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/HomeSS.jpg)
+![The webpage of my portfolio has 4 pages - Home, About, Projects and Contact - includes a navigation bar, a hero banner image and a footer with links to my GitHub, LinkedIn and Email](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/HomeSS.png)
 
-![The About page has a brief description of who I am and my skills](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/AboutSS.jpg)
+![The About page has a brief description of who I am and my skills](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/AboutSS.png)
 
-![The Projects page has my latest projects with links to the repo and the deployed app](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ProjectsSS.jpg)
+![The Projects page has my latest projects with links to the repo and the deployed app](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ProjectsSS.png)
 
-![The Contact page has a form that sends a message directly to my inbox](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ContactSS.jpg)
+![The Contact page has a form that sends a message directly to my inbox](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/ContactSS.png)
 
 ## Deployment
 
@@ -31,7 +31,7 @@ Portfolio webpage to learn about me and my work. Contains a small description of
 ![navigation bar](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/NavBarSS.png)
 
 You can click on the icons in the footer to go to my GitHub, or LinkedIn page or send me an email.
-![footer](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/NavBarSS.png)
+![footer](https://github.com/AndyFt/Andrea-Fontana-react-portfolio/blob/main/src/assets/images/FooterSS.png)
 
 ## Credits
 
@@ -45,6 +45,6 @@ You can click on the icons in the footer to go to my GitHub, or LinkedIn page or
 MIT license
 
 ## Badges
-![badmath](https://img.shields.io/badge/HTML-78.5-blue)
-![badmath](https://img.shields.io/badge/CSS-21.5-orange)
-![badmath](https://img.shields.io/badge/JavaScript-21.5-green)
+![badmath](https://img.shields.io/badge/HTML-10.9-blue)
+![badmath](https://img.shields.io/badge/CSS-37.7-orange)
+![badmath](https://img.shields.io/badge/JavaScript-51.4-green)
