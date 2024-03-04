@@ -6,7 +6,7 @@ import MySkills from "./MySkills";
 
 const AboutContent = () => {
   const onButtonClick = () => {
-    const pdfUrl = "src\assets\docs\AndreaFontana CV - Front-End Web Developer.pdf";
+    const pdfUrl = "src/assets/docs/AndreaFontana CV - Front-End Web Developer.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "AndreaFontana CV - Front-End Web Developer.pdf"; // specify the filename
