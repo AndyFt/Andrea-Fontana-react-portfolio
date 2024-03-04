@@ -61,6 +61,7 @@
   display: flex;
   padding: 8px 28px;
   align-items: center;
+  justify-content: center;
   border: none;
   text-decoration: none !important;
   border-radius: 5%;
@@ -77,6 +78,14 @@
   transform: scale(1.05);
 }
 
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 15px;
+
+}
+
 @media screen and (max-width: 768px) {
   .about {
     flex-direction: column;
@@ -85,6 +94,11 @@
   .left {
     width: calc(90%) !important;
   }
+
+  .buttons-container {
+    flex-direction: column;
+  }
+  
   .right {
     width: calc(90%) !important;
   }
