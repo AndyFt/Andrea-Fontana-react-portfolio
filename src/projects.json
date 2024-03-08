@@ -5,7 +5,8 @@
     "description": "Interactive Schedule SPA built with HTML, CSS, and JS for seamless user experience. Dynamic updates and color coding showcase past, present, and future hours in a clear, accessible interface. Manage your schedule on the go, from any browser.",
     "image": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/images/work-day-scheduler-screenshot-with-event.png?raw=true",
     "repoLink":"https://github.com/AndyFt/work-day-scheduler",
-    "deployedLink": "https://andyft.github.io/work-day-scheduler/"
+    "deployedLink": "https://andyft.github.io/work-day-scheduler/",
+    "gifLink": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/gifs/WorkDaySchedulerMobileV.gif?raw=true"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "description": "Single-page app (SPA) built with JavaScript, HTML5, and CSS3. Features dynamic question generation, real-time scoring with a 60-second timer, and an optional high score list using local storage. Fully functional and extensible architecture allows for customization and future additions.",
     "image": "https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/questions-page.png?raw=true",
     "repoLink":"https://github.com/AndyFt/andrea-fontana-friends-quiz/tree/main",
-    "deployedLink": "https://andyft.github.io/andrea-fontana-friends-quiz/"
+    "deployedLink": "https://andyft.github.io/andrea-fontana-friends-quiz/",
+    "gifLink": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/gifs/FriendsQuizMobileV.gif?raw=true"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "description": "JavaScript weather dashboard. Displays current conditions & 5-day forecasts. Features location search, saving, and local storage for personalized weather tracking.",
     "image": "https://github.com/AndyFt/weather-dashboard/blob/main/assets/images/weather-dashboard-screenshot.png?raw=true",
     "repoLink":"https://github.com/AndyFt/weather-dashboard",
-    "deployedLink": "https://andyft.github.io/weather-dashboard/"
+    "deployedLink": "https://andyft.github.io/weather-dashboard/",
+    "gifLink": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/gifs/WeatherDashboardMobileV.gif?raw=true"
   },
   {
     "id": 4,
@@ -29,15 +32,26 @@
     "description": "V2 Portfolio (Front-End Dev Student): Significant improvements since v1, showcasing diverse projects in HTML, CSS, and JavaScript.",
     "image": "https://github.com/AndyFt/bootstrap-portfolio/blob/main/images/andyft-github-io-bootstrap-portfolio.png?raw=true",
     "repoLink":"https://github.com/AndyFt/bootstrap-portfolio",
-    "deployedLink": "https://andyft.github.io/bootstrap-portfolio/"
+    "deployedLink": "https://andyft.github.io/bootstrap-portfolio/",
+    "gifLink": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/gifs/BootstrapPortfolioMobileV.gif?raw=true"
   },
   {
     "id": 5,
+    "title": "Team Profile Generator",
+    "description": "This Node.js CLI app (Inquirer, Jest) simplifies creating team webpages. It guides you through collecting data for managers, engineers, and interns, then generates the HTML for a well-organized team profile.",
+    "image": "https://github.com/AndyFt/team-profile-generator/blob/main/assets/image/team-profile-generator-screenshot.png?raw=true",
+    "repoLink":"https://github.com/AndyFt/team-profile-generator",
+    "deployedLink": "",
+    "gifLink": ""
+  },
+  {
+    "id": 6,
     "title": "HappyFiit",
     "description": "This React & Node.js fitness app offers a dynamic UI (Vite) and a scalable back-end. Built with React Bootstrap/Material UI for a polished design, it leverages modern web dev tools and integrates with external data sources via Rapid API. Developed as a group project for the edX Bootcamp, HappyFiit showcases collaborative skills and expertise in modern web development.",
     "image": "https://github.com/elismountain/fitness-app/blob/main/src/assets/images/screenshot.png?raw=true",
     "repoLink":"https://github.com/elismountain/fitness-app",
-    "deployedLink": "https://happyfiit-pj.netlify.app/"
+    "deployedLink": "https://happyfiit-pj.netlify.app/",
+    "gifLink": "https://github.com/AndyFt/work-day-scheduler/blob/main/assets/gifs/HappyFiitMobileV.gif?raw=true"
   }
 ]
 
